@@ -6,7 +6,7 @@
 
 # Values in column names 
 
-raw <- read.csv("data/pew.csv", check.names = F)
+raw <- read.csv("data/pew.csv", check.names = F) #read csv
 
 head(raw)
 
